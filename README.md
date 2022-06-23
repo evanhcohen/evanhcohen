@@ -1,5 +1,5 @@
 ### Hi there 👋
-My name is Evan Cohen and I'm a CS major at UMich. Take a look around my github to see my current / past projects!
+My name is Evan Cohen and I'm a Data Science major at UMich. Take a look around my github to see my current / past projects!
 
 <!--
 **evanhcohen/evanhcohen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
