@@ -1,10 +1,10 @@
 ### Hey, I'm Evan! 👋
 
-I'm a hardworking, ambitious, and determined sophomore at the University of Michigan pursuing a degree in computer science. As a high academic achiever with research, e-commerce, and teaching experience, I love tackling complex problems and finding meaningful solutions.
+I'm a hardworking, ambitious, and determined junior at the University of Michigan pursuing a degree in computer science with a minor in French. As a high academic achiever with industry experience in e-commerce, health, and banking, I love tackling complex problems and finding meaningful solutions.
 
-Beyond programming, I really enjoy theater (acting and watching), fitness, fashion, travel, soccer refereeing, and seeking adventure.
+Beyond programming, I really enjoy theater, fitness, and youth soccer refereeing.
 
-I love meeting people and creating new connections, so feel free to connect!
+I love meeting people and creating new connections, so feel free to connect or reach me at evcohen@umich.edu!
 
 <!--
 **evanhcohen/evanhcohen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
