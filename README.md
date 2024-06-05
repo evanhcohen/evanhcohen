@@ -1,6 +1,6 @@
-### Hey, I'm Evan! 👋
+### Hey👋 I'm Evan!
 
-I'm a rising senior at the University of Michigan pursuing a degree in computer science with a minor in French. I love tackling complex problems and finding meaningful solutions.
+I'm a rising senior at the University of Michigan pursuing a degree in computer science with a minor in French. I like to solve problems.
 
 <!--
 **evanhcohen/evanhcohen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
