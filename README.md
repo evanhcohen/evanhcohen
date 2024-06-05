@@ -1,5 +1,5 @@
-### Hey👋 I'm Evan!
-# I like to solve problems.
+## Hey👋 I'm Evan!
+#### I like to solve problems.
 I'm a rising senior at the University of Michigan pursuing a degree in computer science with a minor in French. 
 
 <!--
